@@ -1,6 +1,6 @@
 # 🍷 Wine Quality Prediction (Machine Learning Project)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/REPO-NAME/blob/main/Wine_Quality_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ammarrazaa/Wine-quality-prediction/blob/main/Wine_Quality_prediction.ipynb)
 
 Predict whether a wine is **Low**, **Medium** or **High** quality from its chemical properties, and compare how **training time** and **accuracy** change between two runs of each model.
 
